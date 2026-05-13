@@ -21,7 +21,7 @@
     <meta name="browse-max-categories-per-card" content="2">
     <meta name="browse-max-platforms-per-card" content="3">
     <meta name="lazy-load-images" content="True">
-    <meta name="show-project-icons" content="True">
+    <meta name="show-project-icons" content="False">
     <meta name="base-path" content="">
     <meta name="roadmap-enabled" content="False">
     <meta name="roadmap-removed-catalog-alerts" content="true">
@@ -69,6 +69,12 @@
 
                     <!-- Main Navigation -->
                     <div class="hidden md:flex md:items-center md:space-x-1">
+                        <a href="/browse.html" class="text-text-muted hover:text-link hover:bg-surface-alt px-3 py-2 rounded-lg text-sm font-medium transition-colors">
+                            Browse
+                        </a>
+                        <a href="/statistics.html" class="text-text-muted hover:text-link hover:bg-surface-alt px-3 py-2 rounded-lg text-sm font-medium transition-colors">
+                            Statistics
+                        </a>
                     </div>
                 </div>
 
@@ -116,6 +122,12 @@
         <!-- Mobile Menu (slide-down panel) -->
         <div id="mobile-menu" class="md:hidden hidden overflow-hidden transition-all duration-300 ease-in-out" style="max-height: 0;">
             <div class="px-4 pt-3 pb-4 space-y-1 bg-surface border-t border-border">
+                <a href="/browse.html" class="block px-4 py-2.5 text-base font-medium text-text-muted hover:text-link hover:bg-surface-alt rounded-lg transition-colors">
+                    Browse
+                </a>
+                <a href="/statistics.html" class="block px-4 py-2.5 text-base font-medium text-text-muted hover:text-link hover:bg-surface-alt rounded-lg transition-colors">
+                    Statistics
+                </a>
                 <!-- Mobile Search -->
                 <div class="pt-2 relative">
                     <div class="relative">
@@ -151,7 +163,7 @@
     <div class="bg-surface rounded-lg border border-border shadow-sm p-5 sm:p-8 mb-6">
         <!-- Title row with icon -->
         <div class="flex items-start gap-4 mb-5">
-            <div class="letter-avatar letter-avatar-lg" style="background:hsl(32, 45%, 55%);">F</div>
+            
             <div class="flex-1 min-w-0">
                 <h1 class="text-2xl sm:text-3xl font-bold text-text mb-1">
                     Fluentd
@@ -266,7 +278,7 @@
         <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
             <div class="app-card border border-border rounded-lg p-4">
                 <div class="flex items-center gap-2.5 mb-2">
-                    <div class="letter-avatar letter-avatar-sm" style="background:hsl(295, 45%, 55%);">F</div>
+                    
                     <h3 class="text-base font-semibold text-text truncate flex-1">
                         <a href="/apps/flume.html" class="hover:text-link">
                             Flume
@@ -292,7 +304,7 @@
             </div>
             <div class="app-card border border-border rounded-lg p-4">
                 <div class="flex items-center gap-2.5 mb-2">
-                    <div class="letter-avatar letter-avatar-sm" style="background:hsl(9, 45%, 55%);">L</div>
+                    
                     <h3 class="text-base font-semibold text-text truncate flex-1">
                         <a href="/apps/loki.html" class="hover:text-link">
                             Loki
@@ -318,7 +330,7 @@
             </div>
             <div class="app-card border border-border rounded-lg p-4">
                 <div class="flex items-center gap-2.5 mb-2">
-                    <div class="letter-avatar letter-avatar-sm" style="background:hsl(148, 45%, 55%);">G</div>
+                    
                     <h3 class="text-base font-semibold text-text truncate flex-1">
                         <a href="/apps/goaccess.html" class="hover:text-link">
                             GoAccess
@@ -344,7 +356,7 @@
             </div>
             <div class="app-card border border-border rounded-lg p-4">
                 <div class="flex items-center gap-2.5 mb-2">
-                    <div class="letter-avatar letter-avatar-sm" style="background:hsl(313, 45%, 55%);">R</div>
+                    
                     <h3 class="text-base font-semibold text-text truncate flex-1">
                         <a href="/apps/rsyslog.html" class="hover:text-link">
                             rsyslog
@@ -370,7 +382,7 @@
             </div>
             <div class="app-card border border-border rounded-lg p-4">
                 <div class="flex items-center gap-2.5 mb-2">
-                    <div class="letter-avatar letter-avatar-sm" style="background:hsl(316, 45%, 55%);">R</div>
+                    
                     <h3 class="text-base font-semibold text-text truncate flex-1">
                         <a href="/apps/rrdtool.html" class="hover:text-link">
                             RRDtool
@@ -396,7 +408,7 @@
             </div>
             <div class="app-card border border-border rounded-lg p-4">
                 <div class="flex items-center gap-2.5 mb-2">
-                    <div class="letter-avatar letter-avatar-sm" style="background:hsl(177, 45%, 55%);">R</div>
+                    
                     <h3 class="text-base font-semibold text-text truncate flex-1">
                         <a href="/apps/reaction.html" class="hover:text-link">
                             reaction
