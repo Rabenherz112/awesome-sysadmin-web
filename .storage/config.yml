@@ -27,6 +27,7 @@ generation:
   let_user_choose_pagination_size: true
   use_git_data: true
 ui:
+  show_project_icons: false
   footer_markdown:
     exclude_sections:
       - "Anti-features"
@@ -60,6 +61,17 @@ hero:
       url: "/browse.html"
       style: "primary"
       icon: "grid"
+navigation:
+  - title: "Browse"
+    url: "/browse.html"
+  - title: "Roadmap"
+    url: "/roadmap.html"
+    enabled: "{{ roadmap.enabled }}"
+  - title: "Alternatives"
+    url: "/alternatives.html"
+    enabled: "{{ alternatives.enabled }}"
+  - title: "Statistics" 
+    url: "/statistics.html"
 footer:
   logo_text: "{{ site.title }}"
   tagline: "{{ site.description }}"
