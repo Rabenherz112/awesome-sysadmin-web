@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /static/data/
+
+Sitemap: https://awesome-sysadmin.theravenhub.com/sitemap.xml
