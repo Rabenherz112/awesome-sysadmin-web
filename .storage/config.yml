@@ -1,0 +1,86 @@
+# ASWG Configuration
+
+site:
+  title: "Awesome Sysadmin"
+  description: "Discover and explore sysadmin applications"
+  url: "https://awesome-sysadmin.theravenhub.com"
+  author: "awesome sysadmin community"
+  base_path: ""
+data:
+  data_dir: "awesome-sysadmin-data"
+  software_dir: "software"
+  categories_dir: "tags"
+  platforms_dir: "platforms"
+  licenses_file: "licenses.yml"
+  #licenses_nonfree_file: "licenses-nonfree.yml"
+build:
+  output_dir: "output"
+  template_dir: "templates"
+  static_dir: "static"
+  data_cache_dir: "data"
+generation:
+  items_per_page: 24
+  enable_search_index: true
+  minify_html: false
+  generate_sitemap: true
+  enable_pagination: true
+  let_user_choose_pagination_size: true
+  use_git_data: true
+ui:
+  footer_markdown:
+    exclude_sections:
+      - "Anti-features"
+      - "Contributing"
+hero:
+  title: "Awesome Sysadmin"
+  subtitle: "Discover amazing sysadmin Applications"
+  description: 'A curated list of amazingly awesome Free and Open-Source sysadmin resources. This is a list of <a href="https://en.wikipedia.org/wiki/Free_software">Free Software</a> <a href="https://en.wikipedia.org/wiki/Network_service">network services</a> and <a href="https://en.wikipedia.org/wiki/Web_application">web applications</a> which can be hosted on your own server(s).'
+  badges:
+    - name: "Awesome"
+      image: "/static/images/awesome.png"
+      url: "https://github.com/sindresorhus/awesome"
+    - name: "Build Status"
+      image: "https://github.com/Rabenherz112/awesome-sysadmin-web/actions/workflows/build.yml/badge.svg"
+      url: "https://github.com/Rabenherz112/awesome-sysadmin-web/actions/workflows/build.yml"
+    - name: "Metadata Updated"
+      image: "https://github.com/awesome-foss/awesome-sysadmin-data/actions/workflows/update-metadata.yml/badge.svg"
+      url: "https://github.com/awesome-foss/awesome-sysadmin-data/issues/1"
+  links:
+    - name: "GitHub Repository"
+      url: "https://github.com/awesome-foss/awesome-sysadmin"
+      description: "Markdown version (legacy)"
+    - name: "Main Website"
+      url: "https://sysadmin.awesome-selfhosted.net/"
+      description: "Main Frontend for this dataset"
+    - name: "Contributing Guide"
+      url: "https://github.com/awesome-foss/awesome-sysadmin-data/blob/master/CONTRIBUTING.md"
+      description: "How to contribute to this project"
+  cta_buttons:
+    - name: "Browse All Applications"
+      url: "/browse.html"
+      style: "primary"
+      icon: "grid"
+footer:
+  logo_text: "{{ site.title }}"
+  tagline: "{{ site.description }}"
+  credit_text: "Built with ❤️ for the sysadmin community"
+  footer_text: |
+    Copyright © 2015-{{ current_year }}, the {{ site.author }}. Data from 
+    <a href="https://github.com/awesome-foss/awesome-sysadmin-data" class="text-link hover:text-link-hover">awesome-sysadmin-data</a>
+    <br>
+    <a href="https://github.com/awesome-foss/awesome-sysadmin-data/blob/master/LICENSE" class="text-link hover:text-link-hover">Content under CC-BY-SA 4.0 license</a>
+  sections:
+    resources:
+      title: "Resources"
+      links:
+        - title: "Website Source"
+          url: "https://github.com/Rabenherz112/awesome-sysadmin-web"
+          external: true
+        - title: "Data Source"
+          url: "https://github.com/awesome-foss/awesome-sysadmin-data"
+          external: true
+        - title: "Sitemap"
+          url: "/sitemap.xml"
+htaccess:
+  generate: true
+  remove_html_extension: true

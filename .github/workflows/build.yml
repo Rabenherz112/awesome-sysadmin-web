@@ -1,0 +1,84 @@
+name: build
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 2 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout current repository
+        uses: actions/checkout@v5
+        with:
+          path: awesome-sysadmin-web
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+
+      - name: Setup repositories
+        run: |
+          # Clone data repository
+          git clone https://github.com/Rabenherz112/awesome-sysadmin-data.git
+          
+          # Copy configuration
+          mkdir -p .storage
+          cp awesome-sysadmin-web/.storage/config.yml .storage/config.yml
+
+      - name: Install ASWG
+        run: |
+          python -m pip install --upgrade pip
+          pip install git+https://github.com/Rabenherz112/aswg.git@${{ vars.ASWG_VERSION || 'main' }}
+
+      - name: Build website
+        run: |
+          aswg --config .storage/config.yml build
+
+      - name: Deploy generated files to repository
+        run: |
+          cd awesome-sysadmin-web
+          
+          # Configure git
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # Remove existing files but keep .git, .github, and .storage
+          rm -rf *
+          
+          # Copy generated files (including dotfiles like .htaccess)
+          shopt -s dotglob
+          cp -rf ../output/* .
+          
+          # Commit and push if there are changes
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git add -A
+            git commit -m "Automated build: $(date -u +"%Y-%m-%d %H:%M:%S UTC")"
+            git push origin main
+          fi
+
+      - name: Deploy to website via FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.6
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: awesome-sysadmin-web/
+          server-dir: /
+          protocol: ftps
+          port: 21
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/node_modules/**
+            **/.storage/**
+
+      - name: Cleanup
+        if: always()
+        run: |
+          rm -rf awesome-sysadmin-web awesome-sysadmin-data output .storage
