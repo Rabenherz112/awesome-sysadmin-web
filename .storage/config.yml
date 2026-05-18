@@ -21,12 +21,13 @@ build:
 generation:
   items_per_page: 24
   enable_search_index: true
-  minify_html: false
   generate_sitemap: true
   enable_pagination: true
   let_user_choose_pagination_size: true
   use_git_data: true
 ui:
+  limits:
+    homepage_popular_apps: 8
   show_project_icons: false
   footer_markdown:
     exclude_sections:
