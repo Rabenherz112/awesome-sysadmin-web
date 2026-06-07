@@ -2,1214 +2,1214 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/</loc>
-<lastmod>2026-06-06</lastmod><priority>1.0</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>1.0</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/browse.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.9</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.9</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/statistics.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.7</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.7</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/linux-dash.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/cacti.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/ganeti.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/kroki.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/itop.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/incus.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/eclipse.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/collectd.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/nagios.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/keycloak.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/bind.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/ajenti.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/tiger-vnc.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/capistrano.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/kubero.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/healthchecks.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/dokku.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/ceph.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/cinc.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/librenms.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/jenkins.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/woodpecker.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/gns3.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/uptime-kuma.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/aerc.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/sylpheed.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/gnu-emacs.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/etcd.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/podman.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/virtualmin.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/snipe-it.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/scrutiny.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/firezone.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/openitcockpit-community-edition.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/phpipam.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/minarca.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/collins.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/spack.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/bounca.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/nhost.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/kvm.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/mercurial.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/naemon.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/kener.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/docker.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/webmin.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/rconfig.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/netxms.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/lustre.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/php-server-monitor.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/rake.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/xtreemfs.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/fog.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/opnsense.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/edmon.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/roughenough.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/alerta.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/rsyslog.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/sensu.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/lldap.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/libravatar.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/sshuttle.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/claws-mail.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/gnu-make.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/statsd.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/icinga.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/performance-co-pilot.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/burp.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/graphite.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/hubot.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/freeipa.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/fusion-directory.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/opendcim.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/ruptime.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/salt.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/strider.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/fpm.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/grafana.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/nsq.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/strongswan.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/openvz.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/unbound.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/rudder.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/concourse.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/buildbot.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/adagios.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/samba.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/tirreno.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/goaccess.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/checkcle.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/openvpn.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/coolify.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/consul.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/wireguard.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/flume.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/sysdig.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/reaction.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/nsupdate.info.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/qemu.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/prometheus.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/easybuild.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/cadvisor.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/zitadel.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/rclone.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/tahoelafs.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/gluetun-vpn-client.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/thunderbird.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/cloudslang.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/phplist.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/fabric.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/kubo.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/vagrant.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/diamond.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/dadamail.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/defguard.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/x2go.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/atom-community.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/rrdtool.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/systemd-nspawn.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/proxmox-ve.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/ispconfig.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/octodns.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/telegraf.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/authelia.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/spf-toolbox.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/portabase.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/apache-ant.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/vscodium.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/pfsense-ce.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/glusterfs.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/git.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/netbox.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/backrest.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/cds.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/mitmproxy.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/borgbackup.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/virtualbox.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/barman.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/freeradius.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/openbolt.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/yadifa.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/chocolatey.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/gocd.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/laminar.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/ntpsec.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/zookeeper.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/pomerium.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/opennebula.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/mtr.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/coredns.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/ralph.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/omnibus-ruby.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/riemann.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/xen.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/ovirt.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/lxc.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/eggdrop.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/duplicity.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/docker-compose.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/hestiacp.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/nsd.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/wireshark.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/knot.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/oneuptime.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/fx.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/openafs.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/victoriametrics.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/statime.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/werf.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/nezha.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/designate.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/openwrt.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/gearman.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/overcast.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/chrony.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/xcp-ng.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/genesis.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/tito.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/rtop.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/ocs-inventory-ng.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/openntpd.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/mutt.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/trusted-cgi.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/tau.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/glances.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/lmod.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/dnscontrol.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/remmina.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/dockovpn.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/headscale.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/aptly.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/oxidized.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/grml.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/glpi.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/geany.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/racktables.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/cobbler.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/389-directory-server.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/easy-rsa.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/leofs.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/nebula.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/cockpit.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/openwisp.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/tcollector.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/i-doit.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/checkmk.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/errbot.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/apache-directory-server.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/softether.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/caprover.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/thruk.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/diagrams.net.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/openstack-swift.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/cloud-init.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/kuvaszuptime.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/drbd.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/faynosync.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/bareos.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/subversion.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/poweradmin.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/openvox.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/gatus.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/munki.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/shield.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/domainmod.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/duplicati.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/packer.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/bazel.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/php-censor.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/rsnapshot.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/ipfire.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/status.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/notepad++.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/dar.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/fluentd.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/kdevelop.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/apache-maven.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/phpsysinfo.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/dashdot.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/ez-server-monitor.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/cstate.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/powerdns-authoritative-server.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/argocd.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/monit.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/smallstep-certificates.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/environment-modules.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/ltb-self-service-password.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/databasus.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/loki.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/imapsync.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/docker-swarm.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/zabbix.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/activemq.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/portainer-community-edition.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/darcs.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/wazuh.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/dnsmasq.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/nano.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/vim.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/gradle.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/terrateam.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/brackets.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/munin.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/beats.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/opsi.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/fossil.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/proxmox-backup-server.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/zeromq.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/ansible.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/micro.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/beszel.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/ocserv.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/openfaas.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/froxlor.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/restic.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/sentora.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/ldap-account-manager-lam.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/openldap.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/juicefs.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/perkeep.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/authentik.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/moosefs.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/backupninja.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/clonezilla.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/rdiff-backup.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/beanstalkd.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/rancid.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/cfengine.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/urbackup.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/textmate.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/harness.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/cloudstack.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/djbdns.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/haroopad.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/observium-community-edition.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/hadoop-distributed-filesystem-hdfs.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/meshcentral.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/gitlab-ci.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/mermaid.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>https://awesome-sysadmin.theravenhub.com/apps/dd-wrt.html</loc>
-<lastmod>2026-06-06</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
+<lastmod>2026-06-07</lastmod><priority>0.1</priority>        <changefreq>weekly</changefreq>
     </url>
 </urlset> 
