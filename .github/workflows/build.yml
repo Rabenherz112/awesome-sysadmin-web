@@ -23,7 +23,7 @@ jobs:
       - name: Setup repositories
         run: |
           # Clone data repository
-          git clone https://github.com/awesome-foss/awesome-sysadmin.git
+          git clone https://github.com/awesome-foss/awesome-sysadmin-data.git
           
           # Copy configuration
           mkdir -p .storage
