@@ -72,7 +72,20 @@ navigation:
     url: "/alternatives.html"
     enabled: "{{ alternatives.enabled }}"
   - title: "Statistics" 
-    url: "/statistics.html"
+    url: "/statistics.html"  
+  sections:
+    navigation:
+      title: "Navigation"
+      links:
+        - title: "Home"
+          url: "/"
+        - title: "Browse"
+          url: "/browse.html"
+        - title: "Alternatives"
+          url: "/alternatives.html"
+          enabled: "{{ alternatives.enabled }}"  # Conditional navigation
+        - title: "Statistics"
+          url: "/statistics.html"
 footer:
   logo_text: "{{ site.title }}"
   tagline: "{{ site.description }}"
