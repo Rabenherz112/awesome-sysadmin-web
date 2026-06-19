@@ -36,7 +36,7 @@ ui:
 hero:
   title: "Awesome Sysadmin"
   subtitle: "Discover amazing sysadmin Applications"
-  description: 'A curated list of amazingly awesome Free and Open-Source sysadmin resources. This is a list of <a href="https://en.wikipedia.org/wiki/Free_software">Free Software</a> <a href="https://en.wikipedia.org/wiki/Network_service">network services</a> and <a href="https://en.wikipedia.org/wiki/Web_application">web applications</a> which can be hosted on your own server(s).'
+  description: 'A curated list of amazingly awesome Free and Open-Source sysadmin resources. This is a list of <a href="https://en.wikipedia.org/wiki/Free_software">Free Software</a> for <a href="https://en.wikipedia.org/wiki/System_administrator">System administrator</a> tasks. Consider <a href="https://github.com/n1trux/awesome-donations">donating</a> to the FLOSS projects you use regularly.'
   badges:
     - name: "Awesome"
       image: "/static/images/awesome.png"
